@@ -1,4 +1,9 @@
 # Wedding / Marriage-Event-Management-System
+#Welcome to Marry Manage!
+
+Marry Manage is your dedicated partner in simplifying wedding planning in Pakistan. Our platform connects couples seamlessly with reliable vendors, including marriage halls, catering services, and more, prioritizing your preferences, feasibility, and budget for a tailored and hassle-free experience.
+
+
 ### THIS CODE WAS DONE IN JAVA USING ECLIPSE based on JPanels and JFrames. It also utilizes MySQL as its database. IT IS A COMPLETE project with UI-LAYER DB-LAYER and Backend code in JAVA. It utilizes a database and is based on the principles of OOP. 
 ### YOU CAN VISIT .PDF and .pptx file to view its UI and understand the details of project. 
 
