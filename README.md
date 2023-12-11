@@ -3,6 +3,7 @@
 ### YOU CAN VISIT .PDF and .pptx file to view its UI and understand the details of project. 
 
 [SDA_ProjectReport.pdf](https://github.com/TayyabSohail/Marriage-Event-Management-System/files/13631149/i210822_i212478_ProjectReport.pdf)
+
 [SDA_Project_Presentation.pptx](https://github.com/TayyabSohail/Marriage-Event-Management-System/files/13631153/SDA_Project_Presentation.pptx)
 
 ##CLASS DIAGRAM , DOMAIN MODEL , DEPLOYMENT DIAGRAM , PACKAGE DIAGRAM , SEQUENCE DIAGRAMS , SYSTEM SEQUENCE DIAGRAMS AVAILABLE IN .pdf FILE ATTACHED ABOVE
